@@ -3,7 +3,7 @@ This repository contains solutions to the Sycamore DevOps assessment tasks.
 
 ### Interview Questions
 - Answers to the interview questions are provided in the Google Doc below:
-https://docs.google.com/document/d/1trRkwu5bmZLGsuqxtLiaUnKQ2FPK7ZoCVAc8yC5oQWs/edit?usp=sharing
+https://docs.google.com/document/d/1trRkwu5bmZLGsuqxtLiaUnKQ2FPK7ZoCVAc8yC5oQWs/edit?usp=sharing  OR Interview Question Answers.pdf { in the root directory }
 
 ### Task A: DevOps Troubleshooting (The 502 Mystery)
 - The root cause analysis is provided in `DevOps Troubleshooting/RCA.md`
